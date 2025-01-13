@@ -1,0 +1,25 @@
+{
+    "station":
+    {
+        "location": "Shefford, QC",
+        "latitude": 45.2043,
+        "longitude": -72.3529,
+        "altitude (meters)": 300.0,
+        "link": ""
+    },
+    "generation":
+    {
+        "time": "2025-02-10T12:10:00-0500",
+        "generator": "weewx 5.1.0"
+    },
+    "current":
+    {
+        "temperature": {"value": -9.031714285714285, "units": "°C"},
+        "humidity": {"value": 53.714285714285715, "units": "%"},
+        "wind speed": {"value": 3.703998854071296, "units": "km/h"},
+        "wind gust": {"value": 5.138998410116736, "units": "km/h"},
+        "wind direction": {"value": 334.1063249665148, "units": "°"},
+        "rain rate": {"value": 0.0, "units": "cm/h"},
+        "void_end": null
+    }
+}
